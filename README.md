@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DannyBader
 - 👀 I’m interested in Molecular Dynamic Modelling to understand complex protein interactions
-- 🌱 I’m currently learning Neuroscience
-- 💞️ I’m looking to collaborate on anything related to dynamic modelling of biological systems!
+- 🌱 I’m currently completing an MSc in Neuroscience
+- 💞️ I’m looking to collaborate on anything related to modelling of biological systems!
 - 📫 How to reach me: Message me on LinkedIn at https://www.linkedin.com/in/danielbader/
 
 <!---
